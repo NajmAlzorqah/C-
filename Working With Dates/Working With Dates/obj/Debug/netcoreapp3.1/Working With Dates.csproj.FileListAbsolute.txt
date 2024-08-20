@@ -1,0 +1,11 @@
+D:\C#\Working With Dates\Working With Dates\bin\Debug\netcoreapp3.1\Working With Dates.exe
+D:\C#\Working With Dates\Working With Dates\bin\Debug\netcoreapp3.1\Working With Dates.deps.json
+D:\C#\Working With Dates\Working With Dates\bin\Debug\netcoreapp3.1\Working With Dates.runtimeconfig.json
+D:\C#\Working With Dates\Working With Dates\bin\Debug\netcoreapp3.1\Working With Dates.runtimeconfig.dev.json
+D:\C#\Working With Dates\Working With Dates\bin\Debug\netcoreapp3.1\Working With Dates.dll
+D:\C#\Working With Dates\Working With Dates\bin\Debug\netcoreapp3.1\Working With Dates.pdb
+D:\C#\Working With Dates\Working With Dates\obj\Debug\netcoreapp3.1\Working With Dates.csprojAssemblyReference.cache
+D:\C#\Working With Dates\Working With Dates\obj\Debug\netcoreapp3.1\Working With Dates.AssemblyInfoInputs.cache
+D:\C#\Working With Dates\Working With Dates\obj\Debug\netcoreapp3.1\Working With Dates.AssemblyInfo.cs
+D:\C#\Working With Dates\Working With Dates\obj\Debug\netcoreapp3.1\Working With Dates.dll
+D:\C#\Working With Dates\Working With Dates\obj\Debug\netcoreapp3.1\Working With Dates.pdb

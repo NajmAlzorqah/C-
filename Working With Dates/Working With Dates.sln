@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working With Dates", "Working With Dates\Working With Dates.csproj", "{F1754891-872D-468F-89DB-8B0159B67D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1754891-872D-468F-89DB-8B0159B67D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1754891-872D-468F-89DB-8B0159B67D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1754891-872D-468F-89DB-8B0159B67D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1754891-872D-468F-89DB-8B0159B67D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E72FFEB-6F97-407A-94A5-8517EDC47733}
+	EndGlobalSection
+EndGlobal
