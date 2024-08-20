@@ -1,0 +1,11 @@
+D:\C#\Arrays and lists\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.exe
+D:\C#\Arrays and lists\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.deps.json
+D:\C#\Arrays and lists\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.runtimeconfig.json
+D:\C#\Arrays and lists\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.runtimeconfig.dev.json
+D:\C#\Arrays and lists\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.dll
+D:\C#\Arrays and lists\Arrays and lists\bin\Debug\netcoreapp3.1\Arrays and lists.pdb
+D:\C#\Arrays and lists\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.csprojAssemblyReference.cache
+D:\C#\Arrays and lists\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.AssemblyInfoInputs.cache
+D:\C#\Arrays and lists\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.AssemblyInfo.cs
+D:\C#\Arrays and lists\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.dll
+D:\C#\Arrays and lists\Arrays and lists\obj\Debug\netcoreapp3.1\Arrays and lists.pdb
