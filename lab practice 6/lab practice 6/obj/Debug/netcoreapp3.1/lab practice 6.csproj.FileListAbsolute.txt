@@ -1,0 +1,11 @@
+C:\Users\USERWD\source\repos\lab practice 6\lab practice 6\bin\Debug\netcoreapp3.1\lab practice 6.exe
+C:\Users\USERWD\source\repos\lab practice 6\lab practice 6\bin\Debug\netcoreapp3.1\lab practice 6.deps.json
+C:\Users\USERWD\source\repos\lab practice 6\lab practice 6\bin\Debug\netcoreapp3.1\lab practice 6.runtimeconfig.json
+C:\Users\USERWD\source\repos\lab practice 6\lab practice 6\bin\Debug\netcoreapp3.1\lab practice 6.runtimeconfig.dev.json
+C:\Users\USERWD\source\repos\lab practice 6\lab practice 6\bin\Debug\netcoreapp3.1\lab practice 6.dll
+C:\Users\USERWD\source\repos\lab practice 6\lab practice 6\bin\Debug\netcoreapp3.1\lab practice 6.pdb
+C:\Users\USERWD\source\repos\lab practice 6\lab practice 6\obj\Debug\netcoreapp3.1\lab practice 6.csprojAssemblyReference.cache
+C:\Users\USERWD\source\repos\lab practice 6\lab practice 6\obj\Debug\netcoreapp3.1\lab practice 6.AssemblyInfoInputs.cache
+C:\Users\USERWD\source\repos\lab practice 6\lab practice 6\obj\Debug\netcoreapp3.1\lab practice 6.AssemblyInfo.cs
+C:\Users\USERWD\source\repos\lab practice 6\lab practice 6\obj\Debug\netcoreapp3.1\lab practice 6.dll
+C:\Users\USERWD\source\repos\lab practice 6\lab practice 6\obj\Debug\netcoreapp3.1\lab practice 6.pdb

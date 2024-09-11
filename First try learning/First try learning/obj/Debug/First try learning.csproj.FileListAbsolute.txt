@@ -1,0 +1,9 @@
+C:\Users\USERWD\source\repos\First try learning\First try learning\bin\Debug\First try learning.exe.config
+C:\Users\USERWD\source\repos\First try learning\First try learning\bin\Debug\First try learning.exe
+C:\Users\USERWD\source\repos\First try learning\First try learning\bin\Debug\First try learning.pdb
+C:\Users\USERWD\source\repos\First try learning\First try learning\obj\Debug\First try learning.csprojAssemblyReference.cache
+C:\Users\USERWD\source\repos\First try learning\First try learning\obj\Debug\First_try_learning.Form1.resources
+C:\Users\USERWD\source\repos\First try learning\First try learning\obj\Debug\First_try_learning.Properties.Resources.resources
+C:\Users\USERWD\source\repos\First try learning\First try learning\obj\Debug\First try learning.csproj.GenerateResource.cache
+C:\Users\USERWD\source\repos\First try learning\First try learning\obj\Debug\First try learning.exe
+C:\Users\USERWD\source\repos\First try learning\First try learning\obj\Debug\First try learning.pdb
